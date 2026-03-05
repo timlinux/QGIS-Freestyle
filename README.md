@@ -1,3 +1,8 @@
+> [!CAUTION]
+> **This repository has been archived and is no longer maintained.**
+
+---
+
 # QGIS-Freestyle
 QGIS Open Day Freestyle Sessions
 
@@ -24,8 +29,3 @@ The best entry will become the proud owner of a QGIS Mug!  We will contact you i
 ![Mug](https://www.qgis.org/en/_images/shop_mug_2017.png)
 
  
-
-
-
-
-
